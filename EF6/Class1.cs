@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EF6
 {
-    public class Class4
+    public class Class5
     {
     }
 }
